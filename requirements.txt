@@ -1,0 +1,8 @@
+pandas==2.2.2
+scikit-learn==1.4.2
+joblib==1.4.2
+
+# matplotlib==3.8.4         # (Optional) For evaluation visualizations
+# seaborn==0.13.2           # (Optional) For better plots
+# beautifulsoup4==4.12.3    # (Optional) If you decide to extract metadata
+# requests==2.31.0          # (Optional) For making HTTP requests to fetch titles

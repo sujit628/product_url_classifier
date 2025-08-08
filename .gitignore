@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm/VSCode project settings
+.vscode/
+.idea/
+
+# Logs and outputs
+*.log
+*.out
+*.tmp
+
+# Model files
+*.pkl
+*.joblib
+*.pt
+*.h5
+
+# Dataset & predictions
+data/*.csv
+!data/urls_dataset_sample.csv      # keep a sample if needed
+output/*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.venv
+.venv.*
