@@ -65,7 +65,9 @@ https://www.flipkart.com/mobiles,Mobile Listings,category
 https://blog.example.com/tips,Top 10 Tips,other
 
 ✅ At least 2 samples per class required to train properly.
+
 🚀 How to Run
+
 🔹 1. Train the Model
 
 python scripts/train_model.py
